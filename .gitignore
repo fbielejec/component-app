@@ -1,0 +1,12 @@
+deploy.sh
+/target
+/classes
+/checkouts
+pom.xml
+pom.xml.asc
+*.jar
+*.class
+/.lein-*
+/.nrepl-port
+rpms/
+/resources/scripts.zip
